@@ -1,0 +1,10 @@
+.studentContainer{
+    display: flex;
+    height: 100vh;
+}
+
+.studentContent{
+    display: flex;
+    flex: 1;
+    margin-top: 50px;
+}

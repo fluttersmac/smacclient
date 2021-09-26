@@ -1,0 +1,18 @@
+.profileContainer{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.profileAvatar{
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+}
+
+.profileName{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

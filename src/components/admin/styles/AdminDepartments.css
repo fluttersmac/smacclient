@@ -1,0 +1,16 @@
+.adminDepartmentsContainer{
+    display: flex;
+    flex: 1;
+    overflow-y: hidden;
+}
+
+.adminDepartmentsLeftContainer{
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    margin-top: 12px;
+}
+
+.adminDepartmentsRightContainer{
+    flex: 0.5;
+}

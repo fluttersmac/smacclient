@@ -1,0 +1,10 @@
+.adminContainer{
+    display: flex;
+    height: 100vh;
+}
+
+.adminContent{
+    display: flex;
+    flex: 1;
+    margin-top: 50px;
+}

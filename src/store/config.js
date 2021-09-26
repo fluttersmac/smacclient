@@ -1,0 +1,25 @@
+//authentication
+export const SET_AUTH_STATE="GET_AUTH_STATE";
+
+//page management
+export const SET_CURRENT_PAGE_TITLE="SET_CURRENT_PAGE_TITLE";
+
+//users 
+export const SET_USERS="SET_USERS";
+export const SET_SELECTED_USER="SET_SELECTED_USER";
+export const SET_ISLOADING_USERS="SET_ISLOADING_USERS";
+
+//smac api routes
+export const SET_API_ROUTES="SET_API_ROUTES";
+
+//loader
+export const SET_LOADING="SET_LOADING";
+
+//end task
+export const SET_END_TASK="SET_END_TASK";
+export const SET_END_DEPARTMENTS_TASK="SET_END_DEPARTMENTS_TASK";
+
+//departments
+export const SET_DEPARTMENTS="SET_DEPARTMENTS";
+export const SET_SELECTED_DEPARTMENT="SET_SELECTED_DEPARTMENT";
+export const SET_ISLOADING_DEPARTMENTS="SET_ISLOADING_DEPARTMENTS";
